@@ -1,9 +1,7 @@
 # Web-Scrapping
 
-Scrapped www.Amazon.com for products and there price.
-The script is written to get daily price for a intresed product, such that when the price of the product drops below the mentioned amount, the script will initiate a mail to the user about the price drop.
-
-Libraries used are BeautifulSoup, requests, smtplib (for email), date, datetime
+Scrapped www.Amazon.com for products and their price. The script is written to get the daily price for an interested product, such that when the cost of the product drops below the mentioned amount, the script will initiate a mail to the user about the price drop.
+Libraries used are BeautifulSoup, requests, smtplib (for email), date, datetime.
 
 Highlighted data is extracted by the script and aded to the file below SS.
 
